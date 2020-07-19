@@ -4,3 +4,4 @@ __pycache__
 build
 euroleague_scrapping.egg-info
 dist
+.eggs

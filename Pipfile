@@ -9,6 +9,7 @@ pbr = "*"
 [packages]
 beautifulsoup4 = "*"
 requests = "*"
+twine = "*"
 
 [requires]
 python_version = "3.6"
