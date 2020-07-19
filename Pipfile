@@ -7,10 +7,8 @@ verify_ssl = true
 pbr = "*"
 
 [packages]
-twine = "*"
 beautifulsoup4 = "*"
 requests = "*"
-wheel = "*"
 
 [requires]
 python_version = "3.6"

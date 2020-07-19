@@ -1,5 +1,5 @@
 .idea
-euroleague_scrapping/data
+euroleague-scrapping/data
 __pycache__
 build
 euroleague_scrapping.egg-info
