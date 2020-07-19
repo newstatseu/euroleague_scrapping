@@ -37,6 +37,7 @@ class Euroscrapper:
             if(season==2020):
                 print("Ignoring season",season)
                 continue
+            print("Downloading season",season)
             if not os.path.exists(seasondir):
                 os.makedirs(seasondir)
             yearHtml = BeautifulSoup(simple_get(base_url+(year['value'])), 'html.parser')
