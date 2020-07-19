@@ -10,6 +10,7 @@ pbr = "*"
 beautifulsoup4 = "*"
 requests = "*"
 twine = "*"
+m2r = "*"
 
 [requires]
 python_version = "3.6"

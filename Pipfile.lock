@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5c71a4ab3996eba3b4531b1604cd730c7122f2f4fae63eacd657afcdbf6bbb5b"
+            "sha256": "2f2ac8f333edb06eff0f3856aec500d20326962dd36a2ce95b9b11bd8f04e158"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -146,6 +146,20 @@
                 "sha256:c53e0e5ccde3ad34284a40ce7976b5b3a3d6de70344c3f8ee44364cc340976ec"
             ],
             "version": "==21.2.1"
+        },
+        "m2r": {
+            "hashes": [
+                "sha256:bf90bad66cda1164b17e5ba4a037806d2443f2a4d5ddc9f6a5554a0322aaed99"
+            ],
+            "index": "pypi",
+            "version": "==0.2.1"
+        },
+        "mistune": {
+            "hashes": [
+                "sha256:59a3429db53c50b5c6bcc8a07f8848cb00d7dc8bdb431a4ab41920d201d4756e",
+                "sha256:88a1051873018da288eee8538d476dffe1262495144b33ecb586c4ab266bb8d4"
+            ],
+            "version": "==0.8.4"
         },
         "packaging": {
             "hashes": [
